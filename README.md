@@ -68,92 +68,92 @@ Personally, the whole orientation to the left of the article and whatnot. It fee
 #Site 3
 
 What is the URL?<br>
-
+http://didyouknowgaming.com/
 <br>
 <br>
 How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?<br>
-
+This is a site I had set up to open immediately when I open Chrome on my own computer. 
 <br>
 <br>
 How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?<br>
-
+The design has remained constant since the site began in about 2012. However, the design is still a solid strong design, that is simple, and works for a "blog" style site, since it's base is from Tumblr.com.
 <br>
 <br>
 Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?<br>
-
+It is very familiar, with some slight changes, using icons on the top, before they use text. The icons indicate various game series that trivia may be from, and underneath provides the user with options to submit and search.
 <br>
 <br>
 What parts of the site are interactive?<br>
-
+The same as Den Of Geek, it only has slight lightness to most of the buttons when you havor over. There is little else to it in terms of interactivity. However, there are many links on the page, which lets you do much.
 <br>
 <br>
 How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?<br>
-
+I personally enjoy it, however it is no longer as active as it used to be. It still has some interesting trivia, and it's rather fun to see, but stuff about the avctual site doesn't really strike me as too intersting at this point, it's very much just a black background, with some interesting posts as you scroll down.
 <br>
 <br>
 What is one thing you would change about this site?<br>
-
+I would make the background a bit more lively, not enough to really change or detract the from the posts, but enough to providfe some visual interest as you scroll further down the site.
 <br>
 <br>
 
 #Site 4
 
 What is the URL?<br>
-
+https://www.spriters-resource.com/
 <br>
 <br>
 How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?<br>
-
+Following a link from Did You Know Gaming, it is an affiliate site, and one I used to frequent long ago.
 <br>
 <br>
 How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?<br>
-
+It has a definite dated appearnce, with many elements that are clearly easily done with HTML and CSS. The colour palette and imagery also have a definte mid-2000s vibe going on with it, when HTML sites were getting more intensive, but not to their full extent. 
 <br>
 <br>
 Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?<br>
-
+Familiar navigation, but with many options going on on the top bar, as well as a sidebar, and even when you scroll further down and along. 
 <br>
 <br>
 What parts of the site are interactive?<br>
-
+Not much, there are many links, however, the responsiveness of the site is lacking. There isn't much to when you hover over links, as it is a very classic style site. If the site froze, I honestly wouldn't know if it did, as it looks very static.
 <br>
 <br>
 How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?<br>
-
+It's a useful site to those wholike to review and use Sprites and pixel-based artwork. I'm a fan of it's older aesthetic as I used this site constantly when I was younger.
 <br>
 <br>
 What is one thing you would change about this site?<br>
-
+It could stand to be a little less busy, it's a little much sometimes on the homepage, some of the imagery is a bit distracting and much, such as the background and such.
 <br>
 <br>
 #Site 5
 
 What is the URL?
 What is the URL?<br>
-
+https://www.vgfacts.com/
 <br>
 <br>
 How did you get there? Did you follow a link from another site, from social media, from a search engine, etc?<br>
-
+Followed a link from The Spriter's Resource, part of the same network as Spriter's Resource
 <br>
 <br>
 How does it look? Does the design seem current, trendy, dated, timeless, etc? What makes it appear that way?<br>
-
+The design, while more recent than Spriter's Resource, falls into about the same timeframe as Did You Know Gaming, being very 2012, with a dark red as the main colour scheme, and the design choices feeling very early 2010s. The use of the sharper angles, the very harsh colours, and the background imagery
 <br>
 <br>
 Describe the navigation system? Is it familiar or uncommon? Is it easy use and simple to find things?<br>
-
+Common, with some variation, but nothing too crazily new, enough that anyone with an understanding of basic websites could work it out.
 <br>
 <br>
 What parts of the site are interactive?<br>
-
+The links along the top reveal small scroll down menus to help further navigate through the site, and each fact on the front page is an available link to various other facts about each game, or franchise, or whatever else it may be related to.
 <br>
 <br>
 How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?<br>
-
+It is fairly  well done, though nothing to really write home about. I never felt very strongly about it either way, neither good, nor bad, maybe boring to a point.
 <br>
 <br>
 What is one thing you would change about this site?<br>
-
+Personally, I gfeel this site could do with a major overhaul, so as to at least illicit some kind of stronger response. For a single thing, I would probably change the background image, as it is of poor quality, and feels very confusing in  a regular desktop window.
 <br>
 <br>
